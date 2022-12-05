@@ -1,0 +1,35 @@
+.link{
+    text-decoration: none;
+    font-style: normal;
+}
+.list{
+    list-style: none;
+}
+body{
+    font-family: roboto, sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    color: var(--main-color-font);
+}
+
+/* header */
+
+.link-nav {
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+background-color: #212121;
+}
+
+/* hero */
+ 
+h1 {
+    background-color: #FFFFFF ;
+}
+  
+.container {
+    width: 1170px;
+}
+.section {
+    padding: 94px 0;
+}
